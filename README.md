@@ -12,23 +12,6 @@ Spring Data JPA
 <br>
 Banco de Dados H2
 <br>
- # Estrutura do Projeto
-
-challengeJava/
-├── src/main/java/dev/Zerphyis/challengeJava/
-│   ├── ControllerVogal.java
-│   ├── service/
-│   │   ├── VogalService.java
-│   ├── repository/
-│   │   ├── VogalRepository.java
-│   ├── vogal/
-│   │   ├── DadosVogal.java
-│   │   ├── Vogal.java
-│   ├── Application.java (classe principal)
-├── pom.xml
-
-# Como Executar o Projeto
-
 # Pré-requisitos
 <br>
 JDK 17+
@@ -50,10 +33,8 @@ mvn spring-boot:run
 
 A API estará disponível em: http://localhost:8080/api
 
-# Endpoints da API
-
 # Endpoint: POST /api
-
+![Image](https://github.com/user-attachments/assets/d6458403-2394-4cbe-9622-0b6428a100a2)
 
 Créditos
 
